@@ -1,7 +1,9 @@
-# Entrega-1
-creciente de casos con el COVID 19
+# Entrega-2
+PREDECIR EL NIVEL DE POBREZA EN COSTA RICA
 Miembros del grupo 
-Barbara Chavarria, cc 1001555256, bioingenieria 
 Natalia angulo, cc 1006874552, bioingenieria 
 William maurcio restrepo, cc 71292884, ingenieria de sistemas 
-Datos https://www.kaggle.com/datasets/einsteindata4u/covid19?resource=download
+COMPETENCIA:
+https://www.kaggle.com/competitions/costa-rican-household-poverty-prediction/overview
+DRIVE:
+https://drive.google.com/file/d/1GY1h6at5uAXKa4ygn7Ao4UGF7Nmz-LN_/view?usp=sharing
